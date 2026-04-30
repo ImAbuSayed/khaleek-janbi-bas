@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي خليك جنبي بس
+> قلبي في حبك دايمًا يحس
+> نور عيوني أنت وكل المنى
+> روحي في قربك تلاقي الونس
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
