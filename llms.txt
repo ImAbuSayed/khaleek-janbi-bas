@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/khaleek-janbi-bas/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Khaleek Janbi Bas](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
